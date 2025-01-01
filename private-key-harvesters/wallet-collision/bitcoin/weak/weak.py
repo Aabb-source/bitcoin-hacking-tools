@@ -9,7 +9,8 @@ from bit.format import bytes_to_wif
 import traceback
 
 def getAddress(phrases):
-    keyList = []
+    keyList = [34xp4vRoCGJym3xR7yCVPFHoCNxv
+4Twseo]
     addrList = []
     addrStr1 = ""
     addrStr2 = ""
